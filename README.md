@@ -18,7 +18,7 @@ web前端个人简历：一个追梦在前端路上的小白
 export default {
   // 首页部分
   page1: {
-    titleEn:'Hello,I`m WeiTingting', //英文标题
+    titleEn:'Hello,I'm ZhangXiangbin', //英文标题
     title: '一个追梦在前端路上的小白',//中文标题
   },
   // About Me部分
