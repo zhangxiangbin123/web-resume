@@ -122,6 +122,6 @@ export default {
     email: 'Mailto:1457321681@qq.com?Subject=邮箱标题&Body=邮箱内容！',
     zhihu: '',
     weixin: "<img style='width:120px' src='https://github.com/zhangxiangbin123/web-resume/blob/master/src/img/me.jpg' alt='我的微信，加载失败'>",
-    qq: "<img style='width:120px' src='http://wttandroid.gitee.io/wttandroid.github.io/src/img/qq.jpg' alt='我的QQ，加载失败'>"
+      qq: "<img style='width:120px' src='http://wttandroid.gitee.io/wttandroid.github.io/src/img/QQ.jpg' alt='我的QQ，加载失败'>"
   }
 }
