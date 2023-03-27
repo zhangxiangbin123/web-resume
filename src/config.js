@@ -117,9 +117,9 @@ export default {
   }],
   // page6部分
   page6: {
-    github: 'https://github.com/wttAndroid',
+    github: 'https://github.com/zhangxiangbin123',
     bili: '',
-    email: 'Mailto:1457321681@qq.com?Subject=邮箱标题&Body=邮箱内容！',
+    email: 'Mailto:2759145482@qq.com?Subject=邮箱标题&Body=邮箱内容！',
     zhihu: '',
     weixin: "<img style='width:120px' src='https://zhangxiangbin123.github.io/web-resume/src/img/weixin.jpg' alt='我的微信，加载失败'>",
       qq: "<img style='width:120px' src='https://zhangxiangbin123.github.io/web-resume/src/img/QQ.jpg' alt='我的QQ，加载失败'>"
