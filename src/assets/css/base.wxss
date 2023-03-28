@@ -60,7 +60,7 @@
   right: 0;
   top: 0;
   bottom: 0;
-  background-image: url("../../src/img/Abstract1.jpg");
+  background-image: url("../../src/img/bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
